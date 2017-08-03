@@ -1,0 +1,1 @@
+This repository contains example files used for [SWCompression](https://github.com/tsolomko/SWCompression) testing.
